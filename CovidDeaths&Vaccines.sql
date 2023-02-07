@@ -1,3 +1,4 @@
+--SQL Queries of COVID-19 Deaths and Vaccination rates using Our World in Data COVID-19 dataset.
 Select*
 From ProjectPortfolio..CovidDeaths$
 Where continent is not null
